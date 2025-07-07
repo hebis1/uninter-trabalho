@@ -1,0 +1,22 @@
+
+    h1{color:red; font: size 12px; text-align: center}
+    
+    h2{text-align: center;}
+
+    p{background-color:gray; font-size: 20px;}
+    
+    body{background-color: #CAE9F5}
+
+    tr {background-color: lightgray}
+
+    table{width: 250px; height: 100px}
+
+    table{background-color: black} 
+
+    ul li {margin-bottom: 20px}
+
+    .imagem-com-borda {border: 10px solid black; width: 300px;}
+
+    a:hover {color: yellow}
+
+    #message {display: none}
